@@ -16,15 +16,15 @@ A fast multithreaded port scanner written in Python.
 
 🧵 Thread-per-port architecture for efficiency
 
-# Website
-
-🌐 Website: https://aary2408.github.io/Port-Phantom/
-
-
-
 🖥️ Cross-platform support (Linux, Windows, macOS)
 
 📝 Beginner-friendly code structure
 
 ## Usage
 python3 port_scanner.py TARGET START_PORT END_PORT
+
+# Website
+
+🌐 Website: https://aary2408.github.io/Port-Phantom/
+
+
